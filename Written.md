@@ -6,6 +6,7 @@
  - This was defined by dropping the 'IS_SUCCESSFULL' column from the original dataframe
 3. What variable(s) should be removed from the input data because they are neither targets nor features?
  - 'EIN' & 'NAME' columns were droppedd, because they were neither targets nor features in the dataset
+
 #Compiling, Training, and Evaluating the Model
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
  - First attempt had 8 hidden_nodes_layers and 5 hidden_nodes_layers2
